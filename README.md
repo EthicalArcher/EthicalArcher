@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Yeah don't reach me if you can, message me on GitHub.
 - 😄 Pronouns: ... 
-- ⚡ Fun fact: Im handsome and is surprisingly good at arm wrestling.
+- ⚡ Fun fact: Im human and is surprisingly good at arm wrestling.
 
 <!---
 EthicalArcher/EthicalArcher is a very ✨ handsome young individual and cool. Wait did I mention im handsome (: ✨ repository because its `README.md` (this file) appears on your GitHub profile.
